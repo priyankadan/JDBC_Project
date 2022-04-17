@@ -8,7 +8,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 
-public class Sensitive_UpdatableRSTest {
+public class DatabaseMetaDataTest {
 		/*  
 					 STUDENT table on Oracle DB:
 					 -------------------------------
